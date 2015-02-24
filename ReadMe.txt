@@ -2,7 +2,7 @@ Responsive HTML5 website template for developers
 
 Theme name:
 =======================================================================
-Developer Portfolio
+Developer Portfolio DIvya
 
 Theme version:
 =======================================================================
