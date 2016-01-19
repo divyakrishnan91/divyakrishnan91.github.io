@@ -1,0 +1,245 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# You are currently rebasing branch 'master' on '8abdf4b'.
+#
+# Changes to be committed:
+#	modified:   ../assets/images/projects/Resume-DivyaK.doc
+#	new file:   .DS_Store
+#	new file:   README.txt
+#	new file:   css/.DS_Store
+#	new file:   css/animate.css
+#	new file:   css/blue.css
+#	new file:   css/blue.css.map
+#	new file:   css/bootstrap.css
+#	new file:   css/bootstrap.css.map
+#	new file:   css/brown.css
+#	new file:   css/brown.css.map
+#	new file:   css/green.css
+#	new file:   css/green.css.map
+#	new file:   css/icomoon.css
+#	new file:   css/lightblue.css
+#	new file:   css/lightblue.css.map
+#	new file:   css/magnific-popup.css
+#	new file:   css/orange.css
+#	new file:   css/orange.css.map
+#	new file:   css/owl.carousel.min.css
+#	new file:   css/owl.theme.default.min.css
+#	new file:   css/pink.css
+#	new file:   css/pink.css.map
+#	new file:   css/simple-line-icons.css
+#	new file:   css/style.css
+#	new file:   css/style.css.map
+#	new file:   css/turquoise.css
+#	new file:   css/turquoise.css.map
+#	new file:   fonts/.DS_Store
+#	new file:   fonts/bootstrap/glyphicons-halflings-regular.eot
+#	new file:   fonts/bootstrap/glyphicons-halflings-regular.svg
+#	new file:   fonts/bootstrap/glyphicons-halflings-regular.ttf
+#	new file:   fonts/bootstrap/glyphicons-halflings-regular.woff
+#	new file:   fonts/bootstrap/glyphicons-halflings-regular.woff2
+#	new file:   fonts/icomoon/.DS_Store
+#	new file:   fonts/icomoon/icomoon.eot
+#	new file:   fonts/icomoon/icomoon.svg
+#	new file:   fonts/icomoon/icomoon.ttf
+#	new file:   fonts/icomoon/icomoon.woff
+#	new file:   fonts/icomoon/icomoon/.DS_Store
+#	new file:   fonts/icomoon/icomoon/Read Me.txt
+#	new file:   fonts/icomoon/icomoon/demo-files/demo.css
+#	new file:   fonts/icomoon/icomoon/demo-files/demo.js
+#	new file:   fonts/icomoon/icomoon/demo.html
+#	new file:   fonts/icomoon/icomoon/fonts/icomoon.eot
+#	new file:   fonts/icomoon/icomoon/fonts/icomoon.svg
+#	new file:   fonts/icomoon/icomoon/fonts/icomoon.ttf
+#	new file:   fonts/icomoon/icomoon/fonts/icomoon.woff
+#	new file:   fonts/icomoon/icomoon/selection.json
+#	new file:   fonts/icomoon/icomoon/style.css
+#	new file:   fonts/simple-line-icons/Simple-Line-Icons.eot
+#	new file:   fonts/simple-line-icons/Simple-Line-Icons.svg
+#	new file:   fonts/simple-line-icons/Simple-Line-Icons.ttf
+#	new file:   fonts/simple-line-icons/Simple-Line-Icons.woff
+#	new file:   fonts/simple-line-icons/Simple-Line-Icons.woff2
+#	new file:   images/.DS_Store
+#	new file:   images/.picasa.ini
+#	new file:   images/060713-dunlop-anstey-senior-tt-2013-iomtt.jpg
+#	new file:   images/2016.png
+#	new file:   images/2016.svg
+#	new file:   images/58657.jpg
+#	new file:   images/750_paint_helmets.jpg
+#	new file:   images/Ducati-Racing-On-Track.jpg
+#	new file:   images/HUD1.mp4
+#	new file:   images/backWheel.png
+#	new file:   images/battery.png
+#	new file:   images/bike-1-bp.png
+#	new file:   images/bike-1.png
+#	new file:   images/bike-2.png
+#	new file:   images/bike-3.png
+#	new file:   images/bikeWOwheel.png
+#	new file:   images/bike_mov.mp4
+#	new file:   images/bike_mov_black.mp4
+#	new file:   images/bike_mov_blur.mp4
+#	new file:   images/c60b814513f49b98a89f52c0dc77cfa5.jpg
+#	new file:   images/feature-1.png
+#	new file:   images/feature-1.svg
+#	new file:   images/feature-2.png
+#	new file:   images/feature-2.svg
+#	new file:   images/feature-3.png
+#	new file:   images/feature-3.svg
+#	new file:   images/feature-4.png
+#	new file:   images/feature-4.svg
+#	new file:   images/frontWheel.png
+#	new file:   images/goodwp.com_29850.jpg
+#	new file:   images/helmet-1.jpg
+#	new file:   images/helmet-2.jpg
+#	new file:   images/helmet-3.jpg
+#	new file:   images/helmet-4.jpg
+#	new file:   images/helmet-girl.jpg
+#	new file:   images/img_1.jpg
+#	new file:   images/img_10.jpg
+#	new file:   images/img_7.jpg
+#	new file:   images/img_8.jpg
+#	new file:   images/img_9.jpg
+#	new file:   images/iphone-1.png
+#	new file:   images/iphone-2.png
+#	new file:   images/logo.png
+#	new file:   images/p-5292-hells_rider_front__24260.jpg
+#	new file:   images/person2.jpg
+#	new file:   images/person3.jpg
+#	new file:   images/person4.jpg
+#	new file:   images/revsmart_video.mp4
+#	new file:   images/slide_5.jpg
+#	new file:   images/tumblr_m02panTrDF1qhns4co1_500.jpg
+#	new file:   images/tumblr_mp2w55tZzG1rz57nwo1_500.jpg
+#	new file:   index.html
+#	new file:   js/.DS_Store
+#	new file:   js/bootstrap.min.js
+#	new file:   js/jquery.easing.1.3.js
+#	new file:   js/jquery.min.js
+#	new file:   js/jquery.style.switcher.js
+#	new file:   js/jquery.waypoints.min.js
+#	new file:   js/main.js
+#	new file:   js/modernizr-2.6.2.min.js
+#	new file:   js/owl.carousel.min.js
+#	new file:   js/respond.min.js
+#	new file:   sass/.DS_Store
+#	new file:   sass/_bootstrap-compass.scss
+#	new file:   sass/_bootstrap-mincer.scss
+#	new file:   sass/_bootstrap-sprockets.scss
+#	new file:   sass/blue.scss
+#	new file:   sass/bootstrap.scss
+#	new file:   sass/bootstrap/_alerts.scss
+#	new file:   sass/bootstrap/_badges.scss
+#	new file:   sass/bootstrap/_breadcrumbs.scss
+#	new file:   sass/bootstrap/_button-groups.scss
+#	new file:   sass/bootstrap/_buttons.scss
+#	new file:   sass/bootstrap/_carousel.scss
+#	new file:   sass/bootstrap/_close.scss
+#	new file:   sass/bootstrap/_code.scss
+#	new file:   sass/bootstrap/_component-animations.scss
+#	new file:   sass/bootstrap/_dropdowns.scss
+#	new file:   sass/bootstrap/_forms.scss
+#	new file:   sass/bootstrap/_glyphicons.scss
+#	new file:   sass/bootstrap/_grid.scss
+#	new file:   sass/bootstrap/_input-groups.scss
+#	new file:   sass/bootstrap/_jumbotron.scss
+#	new file:   sass/bootstrap/_labels.scss
+#	new file:   sass/bootstrap/_list-group.scss
+#	new file:   sass/bootstrap/_media.scss
+#	new file:   sass/bootstrap/_mixins.scss
+#	new file:   sass/bootstrap/_modals.scss
+#	new file:   sass/bootstrap/_navbar.scss
+#	new file:   sass/bootstrap/_navs.scss
+#	new file:   sass/bootstrap/_normalize.scss
+#	new file:   sass/bootstrap/_pager.scss
+#	new file:   sass/bootstrap/_pagination.scss
+#	new file:   sass/bootstrap/_panels.scss
+#	new file:   sass/bootstrap/_popovers.scss
+#	new file:   sass/bootstrap/_print.scss
+#	new file:   sass/bootstrap/_progress-bars.scss
+#	new file:   sass/bootstrap/_responsive-embed.scss
+#	new file:   sass/bootstrap/_responsive-utilities.scss
+#	new file:   sass/bootstrap/_scaffolding.scss
+#	new file:   sass/bootstrap/_tables.scss
+#	new file:   sass/bootstrap/_theme.scss
+#	new file:   sass/bootstrap/_thumbnails.scss
+#	new file:   sass/bootstrap/_tooltip.scss
+#	new file:   sass/bootstrap/_type.scss
+#	new file:   sass/bootstrap/_utilities.scss
+#	new file:   sass/bootstrap/_variables.scss
+#	new file:   sass/bootstrap/_wells.scss
+#	new file:   sass/bootstrap/mixins/_alerts.scss
+#	new file:   sass/bootstrap/mixins/_background-variant.scss
+#	new file:   sass/bootstrap/mixins/_border-radius.scss
+#	new file:   sass/bootstrap/mixins/_buttons.scss
+#	new file:   sass/bootstrap/mixins/_center-block.scss
+#	new file:   sass/bootstrap/mixins/_clearfix.scss
+#	new file:   sass/bootstrap/mixins/_forms.scss
+#	new file:   sass/bootstrap/mixins/_gradients.scss
+#	new file:   sass/bootstrap/mixins/_grid-framework.scss
+#	new file:   sass/bootstrap/mixins/_grid.scss
+#	new file:   sass/bootstrap/mixins/_hide-text.scss
+#	new file:   sass/bootstrap/mixins/_image.scss
+#	new file:   sass/bootstrap/mixins/_labels.scss
+#	new file:   sass/bootstrap/mixins/_list-group.scss
+#	new file:   sass/bootstrap/mixins/_nav-divider.scss
+#	new file:   sass/bootstrap/mixins/_nav-vertical-align.scss
+#	new file:   sass/bootstrap/mixins/_opacity.scss
+#	new file:   sass/bootstrap/mixins/_pagination.scss
+#	new file:   sass/bootstrap/mixins/_panels.scss
+#	new file:   sass/bootstrap/mixins/_progress-bar.scss
+#	new file:   sass/bootstrap/mixins/_reset-filter.scss
+#	new file:   sass/bootstrap/mixins/_reset-text.scss
+#	new file:   sass/bootstrap/mixins/_resize.scss
+#	new file:   sass/bootstrap/mixins/_responsive-visibility.scss
+#	new file:   sass/bootstrap/mixins/_size.scss
+#	new file:   sass/bootstrap/mixins/_tab-focus.scss
+#	new file:   sass/bootstrap/mixins/_table-row.scss
+#	new file:   sass/bootstrap/mixins/_text-emphasis.scss
+#	new file:   sass/bootstrap/mixins/_text-overflow.scss
+#	new file:   sass/bootstrap/mixins/_vendor-prefixes.scss
+#	new file:   sass/brown.scss
+#	new file:   sass/green.scss
+#	new file:   sass/lightblue.scss
+#	new file:   sass/orange.scss
+#	new file:   sass/pink.scss
+#	new file:   sass/style.scss
+#	new file:   sass/turquoise.scss
+#	new file:   sass/untitled
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic1.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic10.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic11.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic12.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic13.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic14.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic15.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic16.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic17.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic18.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic19.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic2.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic20.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic21.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic22.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic3.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic4.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic5.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic6.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic7.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic8.jpg
+#	deleted:    ../divya_portfolio/images/painting/edit - Copy/pic9.jpg
+#	modified:   ../divya_portfolio/index.html
+#
+# Untracked files:
+#	../4zq2wh5a.zh0.txt~
+#	../divya_portfolio/clickme.html
+#	../divya_portfolio/images/clickme/
+#	../icvq4qac.yw3.txt~
+#	../jfwyatid.wne.txt~
+#	../ovq1ujil.u0i.txt~
+#	../qdz0qypt.v2m.txt~
+#	../ths23nfh.sj2.txt~
+#
+
